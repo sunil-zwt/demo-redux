@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "2589632",
+      "id": 1
+    },
+    {
+      "name": "Sunil",
+      "address": "India",
+      "email": "sunil@gmail.com",
+      "contact": "7008639872",
+      "id": 2
+    },
+    {
+      "name": "Tomy",
+      "address": "Japan",
+      "email": "tomym@gmail.com",
+      "contact": "741258",
+      "id": 3
+    },
+    {
+      "name": "Jane",
+      "address": "Austerlia",
+      "email": "jane@gmail.com",
+      "contact": "963258",
+      "id": 4
+    },
+    {
+      "name": "Kriti",
+      "address": "India",
+      "email": "kriti@gmail.com",
+      "contact": "456987",
+      "id": 5
+    }
+  ]
+}

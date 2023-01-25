@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Jane",
+      "address": "Austerlia",
+      "email": "jane@gmail.com",
+      "contact": "963258",
+      "id": 4
+    },
+    {
+      "name": "Kriti",
+      "address": "India",
+      "email": "kriti@gmail.com",
+      "contact": "456987",
+      "id": 5
+    },
+    {
+      "name": "Kishan Lad",
+      "email": "kishan@gmail.com",
+      "contact": "147852147",
+      "address": "India",
+      "id": 6
+    }
+  ]
+}
